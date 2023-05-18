@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BilgeAdam_Final_Project.props" />
+</Project>
